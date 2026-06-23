@@ -20,9 +20,8 @@ PowerBI:  DAX, donut/bar charts, cards, button slicer
 
 ### Results & Business Recommendations:
 
-<img width="940" height="157" alt="image" src="https://github.com/user-attachments/assets/9e6fee33-0972-47d3-acba-58505b36583c" />
+<img width="1272" height="711" alt="image" src="https://github.com/user-attachments/assets/5f0e5c2f-1427-41eb-a269-cedfb4650118" /
 <img width="261" height="77" alt="image" src="https://github.com/user-attachments/assets/517b580a-775b-4b22-bd35-0e143b38abba" />
-<img width="305" height="345" alt="image" src="https://github.com/user-attachments/assets/1db40a03-28f3-4bec-9ad9-025e84f914ed" />
 
 1. Focus on selling best reviewed products at premium rates to maximize revenue
 2. Focus more on faster shipping options, as average amount purchased was the greatest in "Express Shipping"
